@@ -64,7 +64,6 @@ The following documents provide further details about the analysis:
 3. [Business Insights Presentation](retail_sales_business_insights_presentation.pptx)
 
 
-*All monetary figures are illustrative dataset values and are not denominated in a real-world currency.*
 
 ## Key Findings
 
