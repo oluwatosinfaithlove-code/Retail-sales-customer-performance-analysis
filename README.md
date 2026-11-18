@@ -59,9 +59,9 @@ The dashboard provides an interactive overview of retail sales performance, prof
 
 The following documents provide further details about the analysis:
 
-1. [Client Insights and Business Recommendations](Reports/retail_sales_client_insights_recommendations.pdf)
-2. [Technical Documentation](Reports/retail_sales_supporting_technical_documentation.pdf)
-3. [Business Insights Presentation](Presentation/retail_sales_business_insights_presentation.pptx)
+1. [Client Insights and Business Recommendations](retail_sales_client_insights_recommendations.pdf)
+2. [Technical Documentation](retail_sales_supporting_technical_documentation.pdf)
+3. [Business Insights Presentation](retail_sales_business_insights_presentation.pptx)
 
 
 *All monetary figures are illustrative dataset values and are not denominated in a real-world currency.*
