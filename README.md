@@ -48,16 +48,11 @@ The dataset covers the period from January 2024 to June 2025.
 5. **Dashboard development:** Created interactive visualisations to communicate business performance.
 6. **Business interpretation:** Identified key trends and developed recommendations based on the available data.
 
-## Key Performance Indicators
+## Power BI Dashboard Preview
 
-| Metric | Result |
-|---|---:|
-| Total Revenue | 5,083,984.97 |
-| Total Cost | 3,945,840.47 |
-| Total Profit | 1,138,144.50 |
-| Profit Margin | 22.39% |
-| Distinct Customers | 650 |
-| Units Sold | 13,156 |
+The dashboard provides an interactive overview of retail sales performance, profitability, customer segments, product performance, and sales trends.
+
+![Retail Sales and Customer Performance Power BI Dashboard](Dashboard/retail_sales_dashboard.png)
 
 *All monetary figures are illustrative dataset values and are not denominated in a real-world currency.*
 
