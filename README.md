@@ -52,7 +52,7 @@ The dataset covers the period from January 2024 to June 2025.
 
 The dashboard provides an interactive overview of retail sales performance, profitability, customer segments, product performance, and sales trends.
 
-![Retail Sales and Customer Performance Power BI Dashboard](Dashboard/retail_sales_dashboard.png)
+![Retail Sales and Customer Performance Power BI Dashboard](retail-sales-dashboard.png.png)
 
 *All monetary figures are illustrative dataset values and are not denominated in a real-world currency.*
 
